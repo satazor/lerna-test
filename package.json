@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "lerna": "^2.0.0-rc.5"
+  },
+  "name": "@satazor/lerna-test",
+  "version": "0.0.0",
+  "description": "Lerna dummy repository used for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
