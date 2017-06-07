@@ -1,6 +1,6 @@
 {
   "name": "@satazor/lerna-test-1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Lerna test 1",
   "main": "index.js",
   "repository": {
